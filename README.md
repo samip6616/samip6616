@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/samip6616">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EC%A0%9C%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EC%82%AC%EB%AF%B8%ED%94%84(Samip)%EC%9E%85%EB%8B%88%EB%8B%A4" alt="안녕하세요, 제 이름은 사미프(Samip)입니다" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EC%A0%9C%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EC%82%AC%EB%AF%B8%ED%94%84%EC%9E%85%EB%8B%88%EB%8B%A4" alt="안녕하세요, 제 이름은 사미프입니다" />
   </a>
 </p>
 
